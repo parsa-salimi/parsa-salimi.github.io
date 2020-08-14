@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Parsa's awesome homepage.
 twitter_username: username
 github_username: parsa-salimi
-minimal_mistakes_skin: minimal_mistakes_skin:
+minimal_mistakes_skin: "mint"
 search: true
 
 # Build settings
