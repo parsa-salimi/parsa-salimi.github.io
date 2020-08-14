@@ -58,15 +58,6 @@ author:
   name   : "Parsa Salimi"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I like functional programming, Data science, Algorithms, and math, not in that order."
-  links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://parsa-salimi.github.io"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/parsa-salimi"
-
 
 defaults:
   # _posts
